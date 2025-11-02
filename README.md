@@ -8,4 +8,7 @@ This is a workbook where I used the Happiness and World Bank Income inequality G
 
 I have created some very basic visualisations and employed the k-means clustering algorithm on this dataset. I have considered the variables: Happiness Score, GDP, median income and country.
 
+Note: This is a very rough "workbook" and annotations are more catering towards my own understanding and learning over consiceness
+
+
 
