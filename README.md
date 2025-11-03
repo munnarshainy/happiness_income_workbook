@@ -4,7 +4,7 @@ Author: Munna R. Shainy [[Find me on LinkedIn]](https://www.linkedin.com/in/munn
 
 Year: 2025
 
-This is a workbook where I used the Happiness and World Bank Income inequality Gini measure combined by J.Ward [Dataset available [here](https://www.openml.org/search?type=data&sort=runs&id=40916&status=active)] during my learning at Foundations of Data Science: K-Means Clustering in Python 
+This is a workbook where I used the Happiness and World Bank Income inequality Gini measure combined by J.Ward [Dataset available [here](https://www.openml.org/search?type=data&sort=runs&id=40916&status=active)] during my learning at Foundations of Data Science: K-Means Clustering in Python Coursera course.
 
 I have created some very basic visualisations and employed the k-means clustering algorithm on this dataset. I have considered the variables: Happiness Score, GDP, median income and country.
 
